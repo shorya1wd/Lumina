@@ -1,7 +1,9 @@
 # Lumina 🎥
 Welcome to the Lumina workspace. This project is divided into a separate frontend and backend to ensure clean architecture and independent deployment pipelines.
+
 👉 **[View Frontend Repository](https://github.com/shorya1wd/lumina-fronted)** (React 19, Vite, Tailwind CSS)
 👉 **[View Backend Repository](https://github.com/shorya1wd/lumina-backend)** (Node.js, Express, MongoDB)
+
 Lumina is a full-stack, modern video-sharing application inspired by YouTube. It empowers users to upload videos, create playlists, subscribe to channels, like and comment on videos, and securely manage their own content. 
 This repository is organized as a monorepo consisting of two primary components:
 - **Lumina-backend**: A robust Node.js/Express REST API serving as the backbone.
